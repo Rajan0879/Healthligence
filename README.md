@@ -108,17 +108,17 @@ src/
 
 ### Registration Screen
 
-<img width="1901" height="920" alt="Screenshot 2025-11-29 210120" src="https://github.com/user-attachments/assets/7056dd43-4b09-41c6-8fde-a93f70b73aee" />
+<img width="1901" height="920" alt="Screenshot 2025-11-29 210120" src="https://github.com/user-attachments/assets/8b7a9d78-86c7-40b9-a903-6baf34a7cdaa" />
 
 
 ### Success Screen
 
-<img width="1898" height="911" alt="Screenshot 2025-11-29 211918" src="https://github.com/user-attachments/assets/99c03bf0-7518-4888-9c7e-4c7e1439c398" />
+<img width="1898" height="911" alt="Screenshot 2025-11-29 211918" src="https://github.com/user-attachments/assets/7df548af-43a2-4fb6-bb01-e70a4eb270a9" />
 
 
 ### Email Inbox
 
-<img width="1455" height="612" alt="Screenshot 2025-11-29 210708" src="https://github.com/user-attachments/assets/ca878997-300c-49da-a23f-9484404008cb" />
+<img width="864" height="268" alt="Screenshot 2025-11-29 222233" src="https://github.com/user-attachments/assets/a2016a8e-04c8-4bb5-860c-9647b335056e" />
 
 
 
