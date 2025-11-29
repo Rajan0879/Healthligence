@@ -123,7 +123,7 @@ src/
 
 ### Email Inbox
 
-<img width="864" height="268" alt="Screenshot 2025-11-29 222233" src="https://github.com/user-attachments/assets/a2016a8e-04c8-4bb5-860c-9647b335056e" />
+<img width="1455" height="612" alt="Screenshot 2025-11-29 210708" src="https://github.com/user-attachments/assets/19100f23-06fe-4993-b4ea-c163fb29ba68" />
 
 
 
