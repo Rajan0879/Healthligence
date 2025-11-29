@@ -87,16 +87,21 @@ Follow these instructions to set up and run the project locally.
 ## Project Structure
 ```
 src/
+├── assets/              # Static assets (images, icons)
 ├── components/
+│   ├── FormField.jsx        # Reusable input field component
 │   ├── Header.jsx           # Application header
 │   ├── RegistrationForm.jsx # Main form component
-│   ├── FormField.jsx        # Reusable input field component
-│   ├── SuccessScreen.jsx    # Registration success display
-│   └── ...
+│   └── SuccessScreen.jsx    # Registration success display
 ├── services/
 │   └── emailService.js      # EmailJS configuration and sending logic
-├── App.jsx                  # Main application entry
-└── main.jsx                 # React DOM rendering
+├── utils/
+│   ├── dateUtils.js         # Date manipulation utilities
+│   └── validation.js        # Form validation logic
+├── App.css              # App-wide styles
+├── App.jsx              # Main application entry
+├── index.css            # Global styles (Tailwind imports)
+└── main.jsx             # React DOM rendering
 ```
 
 ## Assessment Details
